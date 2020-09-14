@@ -17,6 +17,7 @@
 		FA3D3C4324D41B490020E74C /* DailyJournalOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3D3C4224D41B490020E74C /* DailyJournalOverviewViewController.swift */; };
 		FA3EFA7224C58DE20093C893 /* GoalManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3EFA7124C58DE20093C893 /* GoalManager.swift */; };
 		FA3EFA7424C5B0840093C893 /* CheckQuestionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3EFA7324C5B0840093C893 /* CheckQuestionData.swift */; };
+		FA42AE9C250F8F6C006BACF2 /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA42AE9B250F8F6C006BACF2 /* CalendarViewController.swift */; };
 		FA57246A24C176FC0023347A /* MessageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA57246924C176FC0023347A /* MessageData.swift */; };
 		FA57246C24C179690023347A /* MessageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA57246B24C179690023347A /* MessageManager.swift */; };
 		FA57246E24C1A6CA0023347A /* MindsetAnswersData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA57246D24C1A6CA0023347A /* MindsetAnswersData.swift */; };
@@ -56,6 +57,7 @@
 		FA3D3C4224D41B490020E74C /* DailyJournalOverviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyJournalOverviewViewController.swift; sourceTree = "<group>"; };
 		FA3EFA7124C58DE20093C893 /* GoalManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalManager.swift; sourceTree = "<group>"; };
 		FA3EFA7324C5B0840093C893 /* CheckQuestionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckQuestionData.swift; sourceTree = "<group>"; };
+		FA42AE9B250F8F6C006BACF2 /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
 		FA57246924C176FC0023347A /* MessageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageData.swift; sourceTree = "<group>"; };
 		FA57246B24C179690023347A /* MessageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageManager.swift; sourceTree = "<group>"; };
 		FA57246D24C1A6CA0023347A /* MindsetAnswersData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MindsetAnswersData.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				FA9591E924C9AE5000C3EBC5 /* DailyJournalViewController.swift */,
 				FAD7E28024D2A3B000EA8F46 /* DailyHabitScorecardViewController.swift */,
 				FA3D3C4224D41B490020E74C /* DailyJournalOverviewViewController.swift */,
+				FA42AE9B250F8F6C006BACF2 /* CalendarViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA42AE9C250F8F6C006BACF2 /* CalendarViewController.swift in Sources */,
 				FA830F2C24C6DDCC00582F2F /* DailyPeopleViewController.swift in Sources */,
 				FA830F3024C6E76100582F2F /* DailyOverViewViewController.swift in Sources */,
 				FA57246A24C176FC0023347A /* MessageData.swift in Sources */,
